@@ -1,2 +1,2 @@
 # WeatherAPI
-Getting weather from cities around the world since 2020. 
+Welcome to my Weather API app. I was always facinated about how data can be pulled from the internet and be parsed in a JSON format.
